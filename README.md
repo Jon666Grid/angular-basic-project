@@ -1,3 +1,3 @@
 # AngularBasicProject
 
-https://jon666grid.github.io/angular-basic-project/
+[ссылка на проект](https://jon666grid.github.io/angular-basic-project/)
